@@ -1,0 +1,27 @@
+# Entorno virtual
+venv/
+
+# Archivos de configuración específicos de tu entorno local
+*.env
+
+# Cachés de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Logs y bases de datos locales
+*.log
+*.sqlite3
+
+# Configuración de IDEs/editores
+.vscode/
+.idea/
+
+# Archivos creados por macOS
+.DS_Store
+
+# Dependencias instaladas por pip (reproducibles con requirements.txt)
+pip-log.txt
+
+# Otros archivos temporales
+*.tmp
